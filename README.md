@@ -26,9 +26,7 @@ Step 1 — Download: Open the EventLink GitHub repository, click Code, and selec
 
 Step 2 — Extract: Open your Downloads folder, right-click the ZIP file, select Extract All, and open the extracted folder.
 
-Step 3 — Install on Windows: Run INSTALL_WINDOWS.bat, if included, and follow the displayed instructions.
-
-Step 4 — Launch: Run RUN_EVENTLINK.bat, if included, to start the application.
+Step 3 — Install on Windows: Go to Eventlink_Local_App Run allow_firewall.bat as Administrator and then run_eventlink.bat as Administrator, if included, and follow the displayed instructions.
 
 Step 5 — Android: Download a compatible APK from the repository's Releases section if available. If only source files are provided, follow the Android build instructions.
 
