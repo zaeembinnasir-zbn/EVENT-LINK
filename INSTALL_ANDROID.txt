@@ -1,0 +1,12 @@
+ANDROID INSTALL
+================
+Fastest install:
+1. Connect the Android phone to the same LAN as the Windows EventLink server.
+2. Open the EventLink local URL printed by the server.
+3. In Chrome, use "Add to Home screen" / "Install app" when offered.
+4. EventLink will open like an installed app.
+
+NATIVE APK
+==========
+The project is also structured for Capacitor packaging, but this environment does not contain the Android SDK/Gradle toolchain, so a compiled APK is not honestly included.
+The Android build source/config is in the android/ folder.

@@ -1,0 +1,12 @@
+WINDOWS INSTALL
+===============
+1. Double-click INSTALL_WINDOWS.bat.
+2. It installs Python if needed (using winget when available).
+3. It copies the application to %LOCALAPPDATA%\EventLinkLocal.
+4. It launches the local server.
+5. Use the Local URL shown in the server console.
+
+For event participants:
+- Connect to the same event LAN.
+- Open the Local URL.
+- Windows Chrome/Edge can install EventLink as a PWA from the browser's install button.
